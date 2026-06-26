@@ -1,0 +1,1 @@
+{"name":"Local: cont","url":"d:\\CSES_Solutions\\Sorting and searching\\cont.cpp","tests":[{"id":1781103872794,"input":"4\n5 5 12\n7 6 13\n14 9 9\n7 6 22","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CSES_Solutions\\Sorting and searching\\cont.cpp","group":"local","local":true}
